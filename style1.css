@@ -1,0 +1,11 @@
+@media (max-width:1201px) {
+    .find>button{
+        background-color: transparent;
+        border: 0px;
+        font-weight: lighter;
+        font-size: large;
+        position: relative;
+        left: -11px;
+        cursor: pointer;
+    }
+}
